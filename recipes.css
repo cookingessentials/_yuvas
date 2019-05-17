@@ -15,7 +15,7 @@ a.RecipeButton {
 /* https://codepen.io/eversionsystems/pen/YOmqdj */
 .jumbotron {
      color: white;
-     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("./docs/header.jpg");
+     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("./assets/header.jpg");
 
      /* Set a specific height */
      height: 25%;
