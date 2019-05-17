@@ -1,0 +1,27 @@
+a.RecipeButton {
+     background-color: #3897f0;
+     border-radius: 3px;
+     color: #fff;
+     -webkit-flex-shrink: 0;
+     -ms-flex-negative: 0;
+     flex-shrink: 0;
+     font-weight: 600;
+     margin-left: auto;
+     padding: 5px 12px;
+     text-decoration: none;
+     text-align: center;
+}
+
+/* https://codepen.io/eversionsystems/pen/YOmqdj */
+.jumbotron {
+     color: white;
+     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("./docs/header.jpg");
+
+     /* Set a specific height */
+     height: 25%;
+
+     /* Position and center the image to scale nicely on all screens */
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
