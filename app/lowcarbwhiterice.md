@@ -19,7 +19,7 @@ Here are the steps: (for 1 cup rice)
 
 And, this is how it looks:
 
-[![](./assets/backtotheroots/lowcarbwhiterice.jpeg)](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODU4OTE1MzcxMzk4MjE2/?utm_source=ig_story_highlights_share&igshid=dzh1w02jibn2)
+[![](../assets/backtotheroots/lowcarbwhiterice.jpeg)](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODU4OTE1MzcxMzk4MjE2/?utm_source=ig_story_highlights_share&igshid=dzh1w02jibn2)
 
 ### More details
 [*[source: food.ndtv.com]*](https://food.ndtv.com)
