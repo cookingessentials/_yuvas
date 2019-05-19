@@ -1,0 +1,34 @@
+{
+    "num-cols": 2,
+    "output": "../../app/recipes.html",
+"recipes":[
+    {
+        "name": "Spinach Soya Balls",
+        "recipe-link": "https://www.instagram.com/p/Bpnp5v4gguJ",
+        "insta-link": "https://www.instagram.com/p/Bpnp5v4gguJ",
+        "img-src": "../assets/recipes/spinach_soya_balls.jpg",
+        "desc": "Simple and healthy soya chunks that goes very well for any salad or quinoa. Soya can be replaced with a vegetable of your choice. And, those who don't have the kuzhipaniyaram pan, can bake in an oven! It can be eaten just as is with a ketchup, just like cutlets."
+    },
+    {
+        "name": "Vadacurry",
+        "recipe-link": "https://www.instagram.com/p/BpTGR7UgEHn",
+        "insta-link": "https://www.instagram.com/p/BpTGR7UgEHn",
+        "img-src": "../assets/recipes/vadacurry.jpg",
+        "desc": "Vadacurry is one of the best side dish for Idli, Dosa/Chapati. It is packed with proteins and the goodness of Indian spices. Traditionally, this dish is made with deep-fried masala vadas. But, this one is made out of steamed vadas which is much simpler and healthier."
+    },
+    {
+        "name": "Kuzhipaniyaram",
+        "recipe-link": "https://www.instagram.com/p/BoxjtcbA4gx",
+        "insta-link": "https://www.instagram.com/p/BoxjtcbA4gx",
+        "img-src": "../assets/recipes/kuzhipaniyaram.jpg",
+        "desc": "Indianized verion of banana bread. Traditional recipe is made of rice flour, here I made it slightly healthier by using wheat flour. It is very simple to make and can perfectly satisfy the instant sweet cravings."
+    },
+    {
+        "name": "Palak Paneer",
+        "recipe-link": "https://rakskitchen.net/palak-paneer-recipe-how-to-make-palak-paneer/",
+        "insta-link": "https://www.instagram.com/p/BnC2wCBnoxW",
+        "img-src": "../assets/recipes/palak_paneer.jpg",
+        "desc": "One of the north indian dish that anyone can fall in love with instantly. It is cooked with spinach puree and indian spices, so it's full of iron and protein. IMHO, any paneer dish can never go wrong as long as it's the good quality paneer :)"
+    }
+]
+}
